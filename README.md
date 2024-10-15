@@ -1,7 +1,7 @@
-# **INFO_228138_Desarrollo_Implementacion_Soluiones_Transformacion_Digital**
+# **21710114_INFO_VISUALIZACION_DATOS_PYTHON**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/](https://ecored-sena.github.io/INFO_228138_Desarrollo_Implementacion_Soluciones_Transformacion_Digital/)
+[https://ecored-sena.github.io/21710114_INFO_VISUALIZACION_DATOS_PYTHON/](https://ecored-sena.github.io/21710114_INFO_VISUALIZACION_DATOS_PYTHON/)
 
 #
